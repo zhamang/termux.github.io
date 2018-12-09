@@ -1,13 +1,5 @@
-Termux.com
-==========
-[![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
+# Cara Install entar saya bikin vidionya
 
-This is the source repository for [termux.com](https://termux.com).
+# kalo banyak yg make toolsnya
 
-Running locally
----------------
-Install dependencies as explained at [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/), then run
-
-    bundle exec jekyll serve
-
-to start a local server at http://localhost:4000.
+#kalo subcribe sedikit saya hapus semua tools yg ada di web :v
